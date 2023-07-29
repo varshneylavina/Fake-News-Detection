@@ -1,0 +1,3 @@
+final_model.joblib : https://drive.google.com/file/d/1Ea3HOgoPmFXBsMwCp6uSt8__GUqRdKJH/view?usp=sharing
+
+vectorizer.joblib : https://drive.google.com/file/d/1rotlvnPRSw3YTDiSCutqJov72IYfFwJC/view?usp=sharing
