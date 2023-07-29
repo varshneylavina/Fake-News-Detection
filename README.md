@@ -58,6 +58,12 @@ Data Privacy and Security: The App may collect certain user data for the purpose
 
 Acceptance of Disclaimer: By using the App, you acknowledge that you have read, understood, and agreed to this disclaimer.
 
+## Load_Model
+
+final_model.joblib : https://drive.google.com/file/d/1Ea3HOgoPmFXBsMwCp6uSt8__GUqRdKJH/view?usp=sharing
+
+vectorizer.joblib : https://drive.google.com/file/d/1rotlvnPRSw3YTDiSCutqJov72IYfFwJC/view?usp=sharing
+
 ## Built With:
 css
 flask
