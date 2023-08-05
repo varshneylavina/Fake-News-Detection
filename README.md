@@ -1,7 +1,7 @@
 # Fake-News-Detection
 
 ## Abstract
-Fake news has become a prevalent issue in today's digital age, spreading misinformation and creating social and political unrest. The detection of fake news has thus become a crucial task to ensure the dissemination of accurate information. In this project, fake news detection  I have used a voting ensemble method. The ensemble method combines the predictions of multiple individual classifiers, leveraging their collective knowledge to make more accurate decisions.
+Fake news has become a prevalent issue in today's digital age, spreading misinformation and creating social and political unrest. The detection of fake news has thus become a crucial task to ensure the dissemination of accurate information. In this project, fake news detection  I have used an ensemble method. The ensemble method combines the predictions of multiple individual classifiers, leveraging their collective knowledge to make more accurate decisions.
 
 ## Inspiration
 In recent years, we've seen how misinformation can have serious consequences, from influencing political campaigns to fueling public health crises. We believe that combatting fake news is an important way to promote responsible journalism and protect the public.
